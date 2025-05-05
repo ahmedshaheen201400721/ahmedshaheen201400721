@@ -86,8 +86,3 @@ Currently developing an innovative ERP system that can build itself and features
 * 🔓 Open-source AI tools and frameworks
 * ⚙️ Enterprise automation solutions
 * 💼 Innovative ERP and CRM implementations
-
-<br>
-
-## 📌 Customize your pins
-<!-- You can customize your pinned repositories here -->
